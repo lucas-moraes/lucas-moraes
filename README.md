@@ -8,7 +8,7 @@ I've been learning to code for 5 years, after switching careers. I started with 
 
 * 🌍  I'm based in São Paulo - Brazil
 * 🖥️  See my portfolio at [lucas-moraes.surge.sh](http://lucas-moraes.surge.sh/#/)
-* ✉️  You can contact me at [lcuas.moraes88@yahoo.com](mailto:lcuas.moraes88@yahoo.com)
+* ✉️  You can contact me at [lcuas.moraes88@yahoo.com](mailto:lucas.moraes88@yahoo.com)
 
 ### Skills
 
